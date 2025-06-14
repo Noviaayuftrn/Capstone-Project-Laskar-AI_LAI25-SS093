@@ -1,0 +1,18 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+
+# Python Virtual Env
+Projek Presensi/model-cnn/venv310/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File model besar
+*.h5
+
+# Abaikan file sistem
+.DS_Store
+Thumbs.db

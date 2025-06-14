@@ -1,0 +1,5 @@
+Link download model2.h5:
+https://drive.google.com/file/d/1Y61TKIbvGn8xP1BL2UgRnsrDoTJ9xJoB/view?usp=sharing
+
+
+Setelah download masukkan file kenalam folder Projek Presensi/model-cnn
